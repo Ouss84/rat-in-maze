@@ -13,6 +13,10 @@
 - Manipulating the rendering using MaterialUI.
 - Using Bactracking and Recursive algorithmes.
 
+## Credits:
+
+- Santosh Kalwar: https://github.com/kalwar
+
 ## App screenshots
 
-![screenshot for rat-in-maze](screenshot.png)
+![screenshot for rat-in-maze](Screenshot.png)
