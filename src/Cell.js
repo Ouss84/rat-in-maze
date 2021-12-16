@@ -30,7 +30,7 @@ function Cell(props) {
     );
   }
   function RedCell() {
-    const classes = useStyle2;
+    const classes = useStyle2();
     return (
       <Grid item>
         <Paper className={classes.paper} elevation={3}>
@@ -40,7 +40,7 @@ function Cell(props) {
     );
   }
   function GreenCell() {
-    const classes = useStyle1;
+    const classes = useStyle1();
     return (
       <Grid item>
         <Paper className={classes.paper} elevation={3}>
